@@ -70,7 +70,7 @@ https://localhost:5001/swagger/index.html
 
 ```
 
-#Endpoints
+# Endpoints
 Método	Endpoint	Descrição
 GET	/api/products	Lista todos os produtos
 GET	/api/products/{id}	Busca produto pelo ID
@@ -78,7 +78,7 @@ POST	/api/products	Cria um novo produto
 PUT	/api/products/{id}	Atualiza um produto existente
 DELETE	/api/products/{id}	Deleta um produto
 
-#Observações
+# Observações
 
 Certifique-se de que o MySQL esteja rodando e que a string de conexão esteja correta.
 
